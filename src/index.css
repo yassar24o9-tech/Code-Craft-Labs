@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme static {
+  --color-background: #050609;
+  --color-background-secondary: #0b0e13;
+  --color-surface: #11161e;
+  --color-surface-elevated: #171d27;
+  --color-silver: #c8cdd5;
+  --color-silver-light: #f5f7fa;
+  --color-text: #f5f7fa;
+  --color-text-muted: #a1aab7;
+  --color-blue: #0878f9;
+  --color-cyan: #12c8f5;
+  --color-border: #28313d;
+  --font-sans: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-display: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+  --font-mono: "Cascadia Code", Consolas, monospace;
+}
